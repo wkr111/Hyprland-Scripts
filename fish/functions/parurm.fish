@@ -65,4 +65,3 @@ function parurm --description 'Remove package with paru and interactively clean 
     echo "   trash-restore   →  Restore files"
     echo "   trash-empty     →  Empty trash"
 end
-EOF
